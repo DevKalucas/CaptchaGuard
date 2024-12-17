@@ -1,0 +1,8 @@
+name: CaptchaGuard
+version: '1.0.0'
+main: de.kalucas.captchaGuard.Main
+api-version: '1.21'
+commands:
+  doCaptcha:
+    description: "Creates a Captcha which you can do!"
+    aliases: [dcaptcha, dc]

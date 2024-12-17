@@ -1,0 +1,14 @@
+# /////////////////////////////////////////////////////////////
+#                   CaptchaGuard • Config
+#                    made by DevKalucas
+
+# /////////////////////////////////////////////////////////////
+#                     Error Messages
+
+doCaptcha:
+  #If the sender is not a Player
+  doCaptchaSenderError: "You need to be a Player to execute this command!"
+  #If the player don't have enough permissions
+  doCaptchaPermissionError: "You dont have the needed Permissions!"
+  #If you add arguments to the command (Example: /doCaptcha test)
+  doCaptchaArgsError: "Wrong Usage! Did you mean /doCaptcha?"
